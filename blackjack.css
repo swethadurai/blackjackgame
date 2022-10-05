@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+	font-style:comic sans MS;
+	background-image: url(https://c1.wallpaperflare.com/preview/595/738/358/background-playing-cards-gambling.jpg);
+	background-size: contain;
+	min-height: 700px;
+	background-repeat: no-repeat;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+
+}
+h1{
+padding-top: 100px;
+	margin-top: 100px;
+	color:#6A1712;
+	font-size :50px;
+	
+	
+	
+	font-family: courier new;
+
+
+}
+p{
+font-size: 30px;
+color: #B70C01;
+
+	
+	
+	font-family: cursive;
+}
+button{
+	background-color: red;
+	color: white;
+	border: none;
+	border-radius: 50px;
+	border-spacing: 10px;
+	
+	font-size: 40px;
+}
